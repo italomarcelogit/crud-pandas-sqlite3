@@ -7,3 +7,4 @@ Eu criei 3 notebooks com as funções de:
 - update: ler dados do sqlite3, modificar no pandas e salvar essas informações no sqlite3
 - delete: ler dados do sqlite3, deletar uma linha qualquer e voltar os dados para o sqlite3
 
+Bons estudos!!
